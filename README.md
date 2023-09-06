@@ -12,7 +12,7 @@ To install the necessary packages, you can use "pip install requirements"
 
 ## Usage
 Clone this repository to your local machine:
-"git clone https://github.com/yourusername/drowsiness-detection-system.git"
+"git clone https://github.com/AryanVani230402/drowsiness_detection_system.git"
 
 Navigate to the project directory:
 "cd drowsiness-detection-system"
